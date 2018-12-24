@@ -1,7 +1,6 @@
-# Information Management System
+# 学生成绩管理系统(ssms)【Student Score Manage System】
 > 
 
-学生成绩管理系统(ssms)【Student Score Manage System】
 
 学生成绩管理系统使用说明
 
